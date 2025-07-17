@@ -17,3 +17,9 @@
 - git log 
 - git blame DemoGit.py(file name)
 - git log --oneline --graph
+
+## Braching
+- git branch
+- git branch "My-first-branch-is-here"(branch name)
+- git switch master(branch name)
+- git merge My-first-branch-is-here(old branch name)
